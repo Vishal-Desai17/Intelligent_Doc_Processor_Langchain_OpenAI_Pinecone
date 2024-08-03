@@ -1,0 +1,1 @@
+# Intelligent_Doc_Processor_Langchain_OpenAI_Pinecone
